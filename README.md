@@ -12,7 +12,7 @@
 
   <img alt="GitHub repo size in bytes" src="https://img.shields.io/github/repo-size/Fred-Reis/reactBlender3D">
 
-  <a href="https://www.codacy.com/manual/Fred-Reis/challenge_backEnd-05_GoStack-v2?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=Fred-Reis/reactBlender3D&amp;utm_campaign=Badge_Grade">
+  <a href="https://www.codacy.com/manual/Fred-Reis/reactBlender3D?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=Fred-Reis/reactBlender3D&amp;utm_campaign=Badge_Grade">
     <img src="https://api.codacy.com/project/badge/Grade/d4fdc96e2af94ce9a7f4826689298071"/></a>
   
   <a href="https://app.netlify.com/sites/priceless-rosalind-6a47c9/deploys">
@@ -26,23 +26,11 @@
 
 <p align="center">
 
-  <a href="#-about-challenge">
-    <img src="https://img.shields.io/badge/About_Challenge-a5a5a5"/>
+  <a href="#-about-project">
+    <img src="https://img.shields.io/badge/About_Project-a5a5a5"/>
   </a>&nbsp;&nbsp;
-  <a href="#-architecture">
-    <img src="https://img.shields.io/badge/Architecture-a5a5a5"/>
-  </a>&nbsp;&nbsp;
-  <a href="#-functionalities">
-    <img src="https://img.shields.io/badge/Functionalities-a5a5a5"/>
-  </a>&nbsp;&nbsp;
-  <a href="-techs">
-    <img src="https://img.shields.io/badge/Techs-a5a5a5"/>
-  </a>&nbsp;&nbsp;
-  <a href="#-tools">
-    <img src="https://img.shields.io/badge/Tools-a5a5a5"/>
-  </a>&nbsp;&nbsp;
-  <a href="#-run-this-project">
-    <img src="https://img.shields.io/badge/Run_this_project-a5a5a5"/>
+  <a href="#-clone-this-project">
+    <img src="https://img.shields.io/badge/Clone_this_project-a5a5a5"/>
   </a>&nbsp;&nbsp;
   <a href="#author-frederico-reis">
     <img src="https://img.shields.io/badge/Author-a5a5a5"/>
@@ -57,3 +45,54 @@
 ## 💡 About this Project:
 
 - **This Project is just an experience of use Blender 3D files on Reacjs**
+
+## 🏁 Clone this project:
+
+To run on the first time,
+into your folder:
+
+```bash
+$ git clone https://github.com/Fred-Reis/reactBlender3D
+```
+
+Into repo folder, to install `Node_Modules` run:
+
+```bash
+yarn
+```
+
+And to start on browser:
+
+```bash
+yarn start
+```
+
+😃 Now run this project and...
+**BE HAPPY**.
+
+<h4>
+  😍 Thanks for you interest!
+</h4>
+
+<br/>
+
+<h4 align="center">
+  "Stay hungry stay foolish!"
+</h4>
+
+<br/>
+
+---
+
+<h3 align="center">
+Author: <a alt="Fred-Reis" href="https://github.com/Fred-Reis">Frederico Reis</a>
+</h3>
+
+<p align="center">
+
+  <a alt="Frederico Reis" href="https://www.linkedin.com/in/frederico-reis-dev/">
+    <img src="https://img.shields.io/badge/LinkedIn-Frederico_Reis-0077B5?logo=linkedin"/></a>
+  <a alt="Frederico Reis" href="https://github.com/Fred-Reis ">
+  <img src="https://img.shields.io/badge/Fred_Reis-GitHub-000?logo=github"/></a>
+
+</p>
