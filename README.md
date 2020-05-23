@@ -17,8 +17,10 @@
   
   <a href="https://app.netlify.com/sites/priceless-rosalind-6a47c9/deploys">
     <img src="https://api.netlify.com/api/v1/badges/757863fa-2b0b-46b3-b449-74434bca5f0c/deploy-status"/></a>
+</p>
 
-    <hr/>
+<br/>
+<hr/>
 
 <h4 align="center">Links:</h4>
 
