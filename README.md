@@ -96,3 +96,5 @@ Author: <a alt="Fred-Reis" href="https://github.com/Fred-Reis">Frederico Reis</a
   <img src="https://img.shields.io/badge/Fred_Reis-GitHub-000?logo=github"/></a>
 
 </p>
+
+MAKE WITH LOVE ❤️
