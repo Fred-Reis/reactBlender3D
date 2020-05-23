@@ -26,7 +26,7 @@
 
 <p align="center">
 
-  <a href="#-about-project">
+  <a href="#-about-this-project">
     <img src="https://img.shields.io/badge/About_Project-a5a5a5"/>
   </a>&nbsp;&nbsp;
   <a href="#-clone-this-project">
